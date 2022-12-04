@@ -29,6 +29,14 @@ body {
   min-height: 100vh;
 }
 
+button.connect {
+    color: #fff;
+    background: linear-gradient(45deg, #7e3acb, #1a7ab1);
+    border: none;
+    padding: 14px;
+    border-radius: 8px;
+}
+
 .signin_container {
   padding: 44px;
   margin: auto;
